@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/yaitskeshav" target="blank"><img src="https://img.shields.io/twitter/follow/yaitskeshav?logo=twitter&style=for-the-badge" alt="yaitskeshav" /></a> </p>
 
-- 🔭 I’m currently working on **Django based project**
+- 🔭 I’m currently working on **Django based projects**
 
 - 🌱 I’m currently learning **New web development technologies**
 
-- 💬 Ask me about **python, django, flask, web development and other technologies.**
+- 💬 Ask me about **python, django, flask, web development and other web dev technologies.**
 
 - 📫 How to reach me **keshav@keshavbits.tech**
 
