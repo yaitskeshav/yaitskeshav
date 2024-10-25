@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python & Go based projects**
 
-- 🌱 I’m currently learning **New web development technologies**
+- 🌱 I’m currently learning **Backend Tech**
 
 - 💬 Ask me about **python, django, go, fiber, web development and other web dev technologies.**
 
