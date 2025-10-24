@@ -1,5 +1,17 @@
 <h1>Hey 👋, I'm Keshav</h1>
-<p>A passionate backend engineer from India!</p>
+
+🧑‍💻 **Backend Engineer** | In a toxic relationship with Go and Python. Don’t ask how it’s going.
+
+🐍 **Go + Python** = Where too many things break at once, and I still *blame* the server.
+
+⚙️ **Fiber & Django**: Because what’s a backend if it isn’t *chaotic*?
+
+☕ I’ll make your API faster than your coffee brews. Or slower. No promises.
+
+💥 **Microservices**: Like my mood—fragile, unpredictable, and prone to sudden crashes.
+
+💀 **Debugging**: Also known as “pretending to know what’s happening until I Google it.”
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
